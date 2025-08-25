@@ -1,0 +1,7 @@
+Customer,Review,Rating,Date,Sentiment
+John,"Great product, fast delivery!",5,2025-06-10,Positive
+Priya,Terrible experience. Broke in 2 days.,1,2025-06-11,Negative
+Ankit,"It's okay, works fine",3,2025-06-12,Positive
+Meena,Loved the color and fit!,5,2025-06-13,Positive
+Ravi,Not what I expected. Low quality.,2,2025-06-14,Negative
+Rama,Loved the product. Best quality.,5,2025-06-19,Positive
